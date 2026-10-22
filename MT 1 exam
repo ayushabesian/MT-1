@@ -28,9 +28,9 @@
     </tr>
     <tr>
         <td>book</td>
-        <td>3</td>
-        <td>30</td>
-        <td>90</td>
+        <td>1</td>
+        <td>200</td>
+        <td>200</td>
     </tr>
     <tr>
         <td>bag</td>
@@ -42,7 +42,7 @@
         <td>total</td>
         <td></td>
         <td></td>
-        <td>740</td>
+        <td>850</td>
     </tr>
     </table>
 </body>
